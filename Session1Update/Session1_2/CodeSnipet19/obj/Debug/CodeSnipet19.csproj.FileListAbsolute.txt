@@ -1,0 +1,7 @@
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\bin\Debug\CodeSnipet19.exe.config
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\bin\Debug\CodeSnipet19.exe
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\bin\Debug\CodeSnipet19.pdb
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\obj\Debug\CodeSnipet19.csprojAssemblyReference.cache
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\obj\Debug\CodeSnipet19.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\obj\Debug\CodeSnipet19.exe
+C:\Users\PC\source\Session1Update\Session1\CodeSnipet19\obj\Debug\CodeSnipet19.pdb
